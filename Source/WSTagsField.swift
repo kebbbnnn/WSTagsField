@@ -333,7 +333,7 @@ open class WSTagsField: UIScrollView {
 
     open override func layoutSubviews() {
         super.layoutSubviews()
-        repositionViews()
+        //repositionViews()
     }
     
     /// Set corner radius of tag views
